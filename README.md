@@ -4,7 +4,7 @@ Version 0.1.0
 
 # Examples
 
-[Demo](https://louisho5.github.io/MotionScroll/example/)
+[View on demo](https://louisho5.github.io/MotionScroll/example/)
 
 ![alt thumbnail](https://raw.githubusercontent.com/louisho5/MotionScroll/main/thumbnail.gif)
 
