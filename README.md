@@ -1,4 +1,4 @@
-# MotionScroll.js
+# MotionScroll JS
 
 Version 0.1.0
 
