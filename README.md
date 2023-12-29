@@ -1,10 +1,12 @@
 # MotionScroll.js
 
+![alt thumbnail](https://raw.githubusercontent.com/louisho5/MotionScroll/main/thumbnail.gif)
+
 Version 0.1.0
 
-# Demo
+# Examples
 
-[Examples](https://louisho5.github.io/MotionScroll/example/)
+[Demo](https://louisho5.github.io/MotionScroll/example/)
 
 ## Summary
 
