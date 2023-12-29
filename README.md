@@ -36,7 +36,7 @@ or
 ```js script
 
 <script src="motionscroll.min.js"></script>
-	
+
 ```
 
 CDN:
@@ -44,7 +44,7 @@ CDN:
 ```js script
 
 <script src="https://cdn.jsdelivr.net/gh/louisho5/MotionScroll@latest/motionscroll.min.js"></script>
-	
+
 ```
 
 ## Requirements/Browsers
