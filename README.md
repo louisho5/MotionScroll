@@ -26,15 +26,6 @@ To include the library in your code:
 
 ```js script
 
-<script src="motionscroll.js"></script>
-
-```
-
-or
-
-
-```js script
-
 <script src="motionscroll.min.js"></script>
 
 ```
