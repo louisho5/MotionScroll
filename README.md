@@ -1,5 +1,7 @@
 # MotionScroll JS
 
+Unlock the Magic: Create Stunning Scroll Animations with CSS Keyframes Today!
+
 Version 0.1.0
 
 # Examples
