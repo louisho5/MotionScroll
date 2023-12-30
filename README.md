@@ -1,6 +1,6 @@
 # MotionScroll JS
 
-Congrats! You can now create scroll animation with CSS keyframes easily
+Congrats! You can now create scroll animations with CSS keyframes easily.
 
 Version 0.1.0
 
