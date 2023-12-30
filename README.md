@@ -65,7 +65,7 @@ Works in Edge 12+, Chrome 43+, Safari 9+, Firefox 28+.
 
 ## Parameters
 
-There are 8 optional parameters in this library:
+There are 8 parameters in this library:
 
 ```js script
 
@@ -84,7 +84,7 @@ new MotionScroll({
 
 ## Functions
 
-There are 2 optional functions in this library:
+There are 2 functions in this library:
 
 ```js script
 
@@ -97,6 +97,10 @@ motionScroll.destroy();
 motionScroll.init();
 
 ```
+
+## Plans
+
+- Publish library to npm
 
 ## License
 
