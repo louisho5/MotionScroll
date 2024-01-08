@@ -14,11 +14,11 @@ Version 0.1.0
 
 Create scroll animations easily with just a single line of code by using motionscroll.js.
 
-* <strong>Keyframes-like animation</strong><br>
-* <strong>Customize everything with CSS only knowledge</strong><br>
-* <strong>Multiple layers support</strong><br>
-* <strong>Super lightweight, only 4KB</strong><br>
-* <strong>Minimal and ease to use</strong><br>
+- [x] <strong>Keyframes-like animation</strong><br>
+- [x] <strong>Customize everything with CSS only knowledge</strong><br>
+- [x] <strong>Multiple layers support</strong><br>
+- [x] <strong>Super lightweight, only 4KB</strong><br>
+- [x] <strong>Minimal and ease to use</strong><br>
 
 ## Author
 
