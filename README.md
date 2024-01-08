@@ -100,7 +100,7 @@ motionScroll.init();
 
 ## Plans
 
-- Publish library to npm
+- [ ] Publish library to npm
 
 ## License
 
